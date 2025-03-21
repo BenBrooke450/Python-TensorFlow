@@ -18,9 +18,20 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PATH_TO_GIT" value="https://github.com/BenBrooke450/Python-TensorFlow.git" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "BenBrooke450"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/BenBrooke450/Python-TensorFlow.git",
+    "accountId": "926c8e9f-4898-4530-acdd-c5c1a6624df5"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -61,7 +72,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742597373984</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Basic">
+      <option name="closed" value="true" />
+      <created>1742597732716</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742597732716</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
